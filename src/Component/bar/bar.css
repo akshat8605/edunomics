@@ -1,0 +1,15 @@
+.MuiAppBar-colorPrimary {
+    color: #5a4e4e !important;
+    background-color: white !important;
+}
+.icon{
+    display: none;
+}
+@media (max-width: 800px){
+    .butn{
+        display: none;
+    }
+    .icon{
+        display: inline;
+    }
+}
